@@ -1,3 +1,4 @@
 !.gitignore
 !com/github/fjtorres/*
 *.maven-metadata-local
+.DS_STORE
